@@ -59,7 +59,13 @@ The "Shot" button to port 10 on the board
 Doom run on Arduino Uno:
 https://wokwi.com/projects/397445939459713025
 
-The Wokwi simulator does not have a Arduino nano option, which is why I have recreated the setup with an Arduino Uno. The basic premise is the same though. The choice of making it with the Pro Mini is due to its smaller design. However, you can also do it with the Arduino Uno if this is the only microcontroller you have available. 
+The Wokwi simulator does not have a Arduino nano option, which is why I have recreated the setup with an Arduino Uno. The basic premise is the same though.
+
+See it in action:
+
+https://youtu.be/wJG04DSo7Xw (Progress on Feb, 09 2019)
+
+https://youtu.be/FX7PQtUAkHk (Progress on Jan, 18 2019)
 
 <video width="320" height="240" controls>
   <source src="img/vid/IMG_6066.mov" type="video/mp4">
